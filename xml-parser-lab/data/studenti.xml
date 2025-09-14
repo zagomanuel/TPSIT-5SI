@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classe nome="3B">
+  <studente id="1">
+    <nome>Anna</nome>
+    <cognome>Verdi</cognome>
+    <voto>8</voto>
+  </studente>
+  <studente id="2">
+    <nome>Marco</nome>
+    <cognome>Bianchi</cognome>
+    <voto>7</voto>
+  </studente>
+  <studente id="3">
+    <nome>Lucia</nome>
+    <cognome>Rossi</cognome>
+    <voto>9</voto>
+  </studente>
+</classe>
